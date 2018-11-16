@@ -1,0 +1,10 @@
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\bin\Release\Lab3.exe.config
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\bin\Release\Lab3.exe
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\bin\Release\Lab3.pdb
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.Form1.resources
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.Form2.resources
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.Properties.Resources.resources
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.csproj.GenerateResource.cache
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.csproj.CoreCompileInputs.cache
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.exe
+D:\Avalon\3Term\C#\Labs_C#\Lab3\Lab3_11_11_h\Lab3\obj\Release\Lab3.pdb
