@@ -1,0 +1,13 @@
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Users\evgen\CS\Lab_solutions\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\bin\Debug\Lab1.exe.config
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\bin\Debug\Lab1.exe
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\bin\Debug\Lab1.pdb
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\obj\Debug\Lab1.exe
+D:\Avalon\3Term\C#\Labs_C#\Lab1\Lab1_10_10_u\Lab1\obj\Debug\Lab1.pdb
