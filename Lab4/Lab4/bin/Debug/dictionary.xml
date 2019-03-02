@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfTWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TWord English="evgen" Type="Noun" Result="None">
+    <RusWords>
+      <string>евгений</string>
+      <string>евген</string>
+    </RusWords>
+  </TWord>
+  <TWord English="will" Type="Verb" Result="None">
+    <RusWords>
+      <string>будет</string>
+    </RusWords>
+  </TWord>
+  <TWord English="pass" Type="Verb" Result="None">
+    <RusWords>
+      <string>сдавать</string>
+      <string>пропускать</string>
+    </RusWords>
+  </TWord>
+  <TWord English="exam" Type="Noun" Result="None">
+    <RusWords>
+      <string>экзамен</string>
+    </RusWords>
+  </TWord>
+  <TWord English="on" Type="NA" Result="None">
+    <RusWords>
+      <string>по</string>
+      <string>в</string>
+      <string>на</string>
+    </RusWords>
+  </TWord>
+  <TWord English="csharp" Type="Noun" Result="None">
+    <RusWords>
+      <string>си шарп</string>
+      <string>сишарп</string>
+      <string>с#</string>
+    </RusWords>
+  </TWord>
+  <TWord English="excellent" Type="NA" Result="None">
+    <RusWords>
+      <string>отлично</string>
+    </RusWords>
+  </TWord>
+  <TWord English="rapid" Type="Adjective" Result="None">
+    <RusWords>
+      <string>быстрый</string>
+      <string>крутой</string>
+      <string>скоростной</string>
+    </RusWords>
+  </TWord>
+</ArrayOfTWord>
